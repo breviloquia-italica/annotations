@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Franzini
+    given-names: Greta H.
+    orcid: https://orcid.org/0000-0003-1159-5575
+  - family-names: Spina
+    given-names: Stefania
+    orcid: https://orcid.org/0000-0002-9957-3903
+  - family-names: Brasolin
+    given-names: Paolo
+    orcid: https://orcid.org/0000-0003-2471-7797
+url: https://github.com/breviloquia-italica/annotations
+title: "Breviloquia Italica: annotations"
+date-released: "2023-10-13"
+version: 1.0.0
+# doi: TODO
