@@ -15,7 +15,7 @@ The `data.csv` file is a CSV table of annotated candidates containing the follow
 
 Please note that the `notes_category`, `notes_attestation` and `notes_general` columns were used as support during annotation, and as such were not translated from Italian.
 
-Categories in the `category` column are values from the following list (translation is provided for comparison with `notes_category`):
+Categories in the `category` column are values from the following list (translation to Italian is provided for comparison with `notes_category`):
 
 - `orthographic variation` (variante grafica)
 - `univerbation` (univerbazione)
