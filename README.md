@@ -1,5 +1,7 @@
 # Breviloquia Italica: annotations
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This resource contains all annotated candidates for innovative forms identified within the [Breviloquia Italica](https://github.com/breviloquia-italica) project.
 
 ## Data format
