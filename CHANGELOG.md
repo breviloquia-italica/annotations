@@ -7,14 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2023-10-16
+
+### Fixed
+
+- Add Zenodo metadata file.
+
 ## [1.0.0] - 2023-10-16
 
 ### Added
 
 - First release.
 
-[unreleased]: https://github.com/breviloquia-italica/annotations/compare/v1.0.0...HEAD
-
-<!-- [1.1.0]: https://github.com/breviloquia-italica/annotations/compare/v1.0.0...v1.1.0 -->
-
+[unreleased]: https://github.com/breviloquia-italica/annotations/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/breviloquia-italica/annotations/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/breviloquia-italica/annotations/releases/tag/v1.0.0
