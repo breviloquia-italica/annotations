@@ -32,3 +32,11 @@ Categories in the `category` column are values from the following list (translat
 - `redefinition` (ridefinizione)
 - `acronymic derivation` (deacronimico)
 - `tmesis` (tmesi)
+
+## Authors
+
+Greta H. Franzini, Stefania Spina, Paolo Brasolin.
+
+## License
+
+This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
