@@ -2,9 +2,9 @@
 
 This resource contains all annotated candidates for innovative forms identified within the [Breviloquia Italica](https://github.com/breviloquia-italica) project.
 
-## `data.csv`
+## Data format
 
-The `data.csv` file is a CSV table of annotated candidates containing the following columns:
+The `data.csv` file is an UTF-8 CSV table of annotated candidates containing the following columns:
 
 - `candidate`: the candidate form;
 - `status`: an integer marking the candidate as either innovative (`1`) or not innovative (`-1`);
