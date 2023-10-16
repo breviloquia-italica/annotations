@@ -12,3 +12,21 @@ The `data.csv` file is a CSV table of annotated candidates containing the follow
 - `attestation`: a string containing a free text with attestation information;
 - `notes`: a string containing a free text with general comments;
 - `category`: a string containing the main category for innovative candidates.
+
+Categories are values from the following list:
+
+- `orthographic variation` (variante grafica)
+- `univerbation` (univerbazione)
+- `suffixation` (suffissazione)
+- `loanword` (forestierismo)
+- `portmanteau` (macedonia)
+- `loanword adaptation` (prestito adattato)
+- `alteration` (alterazione)
+- `prefixation` (prefissazione)
+- `acronym` (acronimo)
+- `transcategorisation` (transcategorizzazione)
+- `compounding` (composizione)
+- `deonymic derivation` (deonimico)
+- `redefinition` (ridefinizione)
+- `acronymic derivation` (deacronimico)
+- `tmesis` (tmesi)
