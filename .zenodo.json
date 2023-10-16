@@ -1,0 +1,23 @@
+{
+  "creators": [
+    {
+      "name": "Franzini, Greta H.",
+      "orcid": "0000-0003-1159-5575"
+    },
+    {
+      "name": "Spina, Stefania",
+      "orcid": "0000-0002-9957-3903"
+    },
+    {
+      "name": "Brasolin, Paolo",
+      "orcid": "0000-0003-2471-7797"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "publication_date": "2023-10-16",
+  "title": "Breviloquia Italica: annotations",
+  "upload_type": "dataset",
+  "version": "1.0.0"
+}
