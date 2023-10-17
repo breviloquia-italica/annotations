@@ -13,8 +13,8 @@ The `data.csv` file is an UTF-8 CSV table of annotated candidates containing the
 - `status`: an integer marking the candidate as either innovative (`1`) or not innovative (`-1`);
 - `category`: a string containing the category for innovative candidates;
 - `notes_category`: a string containing a colon separated list of categories considered for tagging innovative candidates;
-- `notes_attestation`: a string containing a free text with attestation information;
-- `notes_general`: a string containing a free text with general comments.
+- `notes_attestation`: a string containing free text with attestation information;
+- `notes_general`: a string containing free text with general comments.
 
 Please note that the `notes_category`, `notes_attestation` and `notes_general` columns were used as support during annotation, and as such were not translated from Italian.
 
