@@ -603,7 +603,7 @@ candidate,subset_a,subset_b,status,category,pos,hashtag_type,notes_category,note
 #ciabattefashion,True,False,-1.0,,,,,,
 #ciabattepelose,True,False,-1.0,,,,,,
 #ciangulariemattinata,True,False,-1.0,,,,,,
-#ciaociao,True,False,1.0,univerbation,INT,evaluative,,,
+#ciaociao,True,False,1.0,univerbation,,evaluative,,,
 #ciaomaschio,True,False,-1.0,,,,,,Programma TV
 #cibosintetico,True,False,-1.0,,,,,,
 #ciccioedani,True,False,-1.0,,,,,,
@@ -799,7 +799,7 @@ candidate,subset_a,subset_b,status,category,pos,hashtag_type,notes_category,note
 #decretorave,False,True,-1.0,,,,,,
 #deddy,True,False,-1.0,,,,,,
 #degregori,False,True,-1.0,,,,,,
-#dejavu,False,True,-1.0,univerbation,NOM,,,Treccani; Zingarelli 2024,
+#dejavu,False,True,-1.0,univerbation,,,,Treccani; Zingarelli 2024,
 #deketelaere,True,False,-1.0,,,,,,
 #delia,True,False,-1.0,,,,,,
 #deliaduran,True,False,-1.0,,,,,,
@@ -1414,7 +1414,7 @@ candidate,subset_a,subset_b,status,category,pos,hashtag_type,notes_category,note
 #icecream,False,True,1.0,loanword,NOM,informative,forestierismo,,
 #icomeback,True,False,-1.0,,,,,,
 #idearegalo,True,True,1.0,univerbation,,informative,,,
-#ideeregalo,True,True,-1.0,univerbation,NOM,,,,
+#ideeregalo,True,True,-1.0,univerbation,,,,,
 #ig,False,True,1.0,acronym,NOM,informative,instagram,,
 #ig_panormus,True,False,-1.0,,,,,,
 #ig_teramo,True,False,-1.0,,,,,,
@@ -2475,7 +2475,7 @@ candidate,subset_a,subset_b,status,category,pos,hashtag_type,notes_category,note
 #qatargate,True,False,-1.0,suffixation,NOM,,,Treccani,
 #qatarworldcup,True,True,-1.0,,,,,,
 #qatarworldcup2022,True,True,-1.0,,,,,,
-#qrcode,False,True,1.0,univerbation,NOM,informative,,,"In Zingarelli 2024 c'è ""QR"" e ""codice QR"""
+#qrcode,False,True,1.0,univerbation,,informative,,,"In Zingarelli 2024 c'è ""QR"" e ""codice QR"""
 #quadrimoderni,True,False,-1.0,,,,,,
 #quality,False,True,1.0,loanword,NOM,informative,,,
 #quaresima2022,True,False,-1.0,,,,,,
@@ -2521,7 +2521,7 @@ candidate,subset_a,subset_b,status,category,pos,hashtag_type,notes_category,note
 #rassegnastampadelleafriche,True,False,-1.0,,,,,,
 #raulbova,False,True,-1.0,,,,,,
 #rauti,False,True,-1.0,,,,,,
-#raveparty,True,True,-1.0,univerbation,NOM,,,Treccani; Zingarelli 2024,
+#raveparty,True,True,-1.0,univerbation,,,,Treccani; Zingarelli 2024,
 #raw,False,True,1.0,loanword,ADJ,informative,,,
 #rdc,True,True,1.0,acronym,NOM,informative,,,Reddito di Cittadinanza
 #rds,False,True,-1.0,,,,,,
@@ -2920,7 +2920,7 @@ candidate,subset_a,subset_b,status,category,pos,hashtag_type,notes_category,note
 #suisse,False,True,-1.0,,,,,,
 #suit,True,False,-1.0,,,,,,
 #sulmona,False,True,-1.0,,,,,,
-#sulserio,False,True,1.0,univerbation,ADV,evaluative,,,
+#sulserio,False,True,1.0,univerbation,,evaluative,,,
 #sumahoro,True,False,-1.0,,,,,,
 #sumisura,False,True,-1.0,,,,,,
 #summercamp,False,True,1.0,loanword,,informative,,,
