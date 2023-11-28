@@ -10,8 +10,8 @@ This resource contains all annotated candidates for innovative forms identified 
 The `data.csv` file is an UTF-8 CSV table of annotated candidates containing the following columns:
 
 - `candidate`: a string containing the candidate form;
-- `subset_a`: a boolean flag (`1` for true, `0` for false) representing whether the candidate matches selection criteria for subset A[^1];
-- `subset_b`: a boolean flag (`1` for true, `0` for false) representing whether the candidate matches selection criteria for subset B[^1];
+- `subset_a`: a boolean flag (`1` for true, `0` for false) representing whether the candidate matches selection criteria for subset A;
+- `subset_b`: a boolean flag (`1` for true, `0` for false) representing whether the candidate matches selection criteria for subset B;
 - `status`: an integer marking the candidate as either innovative (`1`) or not innovative (`-1`);
 - `category`: a string containing the category for innovative candidates; values can be any of the following items (italian translation is provided for comparison with `notes_category`)
   - `acronym` (acronimo)
@@ -41,12 +41,13 @@ The `data.csv` file is an UTF-8 CSV table of annotated candidates containing the
 - `hashtag_type`: a string containing the type of hashtag for innovative candidates; values are colon separated of items among
   - `evaluative`
   - `informative`
-- `notes_category`: a string containing free text[^2] with comments on categorization;
-- `notes_attestation`: a string containing a free text[^2] with attestation information;
-- `notes_general`: a string containing a free text[^2] with general comments.
+- `notes_category`: a string containing free text with comments on categorization;
+- `notes_attestation`: a string containing a free text with attestation information;
+- `notes_general`: a string containing a free text with general comments.
 
-[^1]: Details on the definition of subsets A and B can be found in the publications.
-[^2]: Please note that the `notes_*` columns were used as support during annotation, and as such were not translated from Italian.
+Please note that details on the definition of subsets A and B can be found in the related publications.
+
+Please note that the `notes_*` columns were used as support during annotation, and as such were not translated from Italian.
 
 ## Authors
 
