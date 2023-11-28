@@ -10,34 +10,44 @@ This resource contains all annotated candidates for innovative forms identified 
 The `data.csv` file is an UTF-8 CSV table of annotated candidates containing the following columns:
 
 - `candidate`: the candidate form;
+- `subset_a`: a boolean flag (`1` for true, `0` for false) representing whether the candidate matches selection criteria for subset A;
+- `subset_b`: a boolean flag (`1` for true, `0` for false) representing whether the candidate matches selection criteria for subset B;
 - `status`: an integer marking the candidate as either innovative (`1`) or not innovative (`-1`);
-- `is_in_a`: TODO
-- `is_in_b`: TODO
-- `category`: a string containing the category for innovative candidates;
-- `pos`: TODO
-- `hashtag_type`: TODO
-- `notes_category`: a string containing a colon separated list of categories considered for tagging innovative candidates;
-- `notes_attestation`: a string containing free text with attestation information;
-- `notes_general`: a string containing free text with general comments.
+- `category`: a string containing the category for innovative candidates; values can be (italian translation is provided for comparison with `notes_category`)
+  - `acronym` (acronimo)
+  - `acronymic derivation` (deacronimico)
+  - `compounding` (composizione)
+  - `deonymic derivation` (deonimico)
+  - `loanword adaptation` (prestito adattato)
+  - `loanword` (forestierismo)
+  - `orthographic variation` (variante grafica)
+  - `portmanteau` (macedonia)
+  - `prefixation` (prefissazione)
+  - `redefinition` (ridefinizione)
+  - `suffixation` (suffissazione)
+  - `tmesis` (tmesi)
+  - `transcategorisation` (transcategorizzazione)
+  - `univerbation` (univerbazione)
+- `pos`: a string containing the POS for innovative candidates; values are colon separated lists of tags among
+  - `ADJ` (adjective)
+  - `ADV` (adverb)
+  - `CON` (conjunction)
+  - `INT` (interjection)
+  - `NOM` (noun)
+  - `NPR` (name)
+  - `PRE` (preposition)
+  - `PRO` (pronoun)
+  - `VER` (verb)
+- `hashtag_type`: a string containing the type of hashtag for innovative candidates; values are colon separated lists of values among
+  - `evaluative`
+  - `informative`
+- `notes_category`: a string containing free text with comments on categorization;
+- `notes_attestation`: a string containing a free text with attestation information;
+- `notes_general`: a string containing a free text with general comments.
+
+Details on the definition of subsets A and B can be found in the publications.
 
 Please note that the `notes_category`, `notes_attestation` and `notes_general` columns were used as support during annotation, and as such were not translated from Italian.
-
-Categories in the `category` column are values from the following list (translation to Italian is provided for comparison with `notes_category`):
-
-- `acronym` (acronimo)
-- `acronymic derivation` (deacronimico)
-- `compounding` (composizione)
-- `deonymic derivation` (deonimico)
-- `loanword adaptation` (prestito adattato)
-- `loanword` (forestierismo)
-- `orthographic variation` (variante grafica)
-- `portmanteau` (macedonia)
-- `prefixation` (prefissazione)
-- `redefinition` (ridefinizione)
-- `suffixation` (suffissazione)
-- `tmesis` (tmesi)
-- `transcategorisation` (transcategorizzazione)
-- `univerbation` (univerbazione)
 
 ## Authors
 
