@@ -11,7 +11,11 @@ The `data.csv` file is an UTF-8 CSV table of annotated candidates containing the
 
 - `candidate`: the candidate form;
 - `status`: an integer marking the candidate as either innovative (`1`) or not innovative (`-1`);
+- `is_in_a`: TODO
+- `is_in_b`: TODO
 - `category`: a string containing the category for innovative candidates;
+- `pos`: TODO
+- `hashtag_type`: TODO
 - `notes_category`: a string containing a colon separated list of categories considered for tagging innovative candidates;
 - `notes_attestation`: a string containing free text with attestation information;
 - `notes_general`: a string containing free text with general comments.
@@ -22,7 +26,6 @@ Categories in the `category` column are values from the following list (translat
 
 - `acronym` (acronimo)
 - `acronymic derivation` (deacronimico)
-- `alteration` (alterazione)
 - `compounding` (composizione)
 - `deonymic derivation` (deonimico)
 - `loanword adaptation` (prestito adattato)
