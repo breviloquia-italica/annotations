@@ -20,21 +20,21 @@ Please note that the `notes_category`, `notes_attestation` and `notes_general` c
 
 Categories in the `category` column are values from the following list (translation to Italian is provided for comparison with `notes_category`):
 
-- `orthographic variation` (variante grafica)
-- `univerbation` (univerbazione)
-- `suffixation` (suffissazione)
-- `loanword` (forestierismo)
-- `portmanteau` (macedonia)
-- `loanword adaptation` (prestito adattato)
-- `alteration` (alterazione)
-- `prefixation` (prefissazione)
 - `acronym` (acronimo)
-- `transcategorisation` (transcategorizzazione)
+- `acronymic derivation` (deacronimico)
+- `alteration` (alterazione)
 - `compounding` (composizione)
 - `deonymic derivation` (deonimico)
+- `loanword adaptation` (prestito adattato)
+- `loanword` (forestierismo)
+- `orthographic variation` (variante grafica)
+- `portmanteau` (macedonia)
+- `prefixation` (prefissazione)
 - `redefinition` (ridefinizione)
-- `acronymic derivation` (deacronimico)
+- `suffixation` (suffissazione)
 - `tmesis` (tmesi)
+- `transcategorisation` (transcategorizzazione)
+- `univerbation` (univerbazione)
 
 ## Authors
 
